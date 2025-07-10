@@ -9,9 +9,21 @@ LinkedIn: https://www.linkedin.com/in/deepan-muthuvairavan/
 ### Summary
 Linux Administrator | DevOps Engineer | Platform Engineering Specialist | Cloud Solutions Expert
 
-18+ years of experience in Linux System Administration, specializing in automation, cloud infrastructure (AWS), configuration management (Ansible), and containerization (Docker, Kubernetes). Passionate about optimizing system performance and improving CI/CD pipelines using tools like GitHub, Jenkins, CloudBees, Spinnaker, Testrail, JFrog Artifactory, Confluence, Jira, Terraform, Helm, and managing AWS, Azure, GCP cloud platforms.
+Over 18 years of experience in Linux System Administration, with a strong focus on automation, cloud infrastructure (AWS), configuration management (Ansible), and containerization technologies (Docker, Kubernetes). Passionate about optimizing system performance and enhancing CI/CD pipelines using tools such as GitHub, Jenkins, CloudBees, Spinnaker, TestRail, JFrog Artifactory, Confluence, Jira, Terraform, and Helm. Experienced in managing multi-cloud environments including AWS, Azure, and Google Cloud Platform (GCP).
 
----
+- Skilled in researching on new technologies and trends in the respected competencies of DevOps automation tools and technology stack; Proficient in documenting and implementing procedures related to build deployment and release.
+- Experienced in writing Ansible Playbooks, Terraform code, Kube Manifest to the reliable version, for create infrastructure and configuration.
+- Proven mastery in Infrastructure as Code (IaC) through automation with Terraform and efficient Ansible configuration management for streamlined deployment of emergency security fixes.
+- Specialized in providing deployment, maintenance, and application scaling solutions within OpenShift Container Platform, Kubernetes Cluster, and Docker Containers Technologies.
+- Experienced to writing CI/CD pipeline script in Gitlab and Jenkins for End-to-End automation, experienced in writing manifest YAML for Kubernetes to orchestrate tools and Docker file/compose for containers of new and existing applications as well as deployment and management of complex run time environment.
+- Experienced in writing a technical documentation, as well very good in knowledge transfer to team members via confluences.
+- In-depth understanding of the principles and best practices of Agile SCRUM and Kanban methodologies.
+- Built a centralized DevOps automation API gateway using FastAPI to control and trigger Jenkins, Azure DevOps, and GCP operations via REST APIs.
+- Created RESTful endpoints for CI/CD automation such as starting/stopping VMs, triggering Jenkins jobs, and invoking Azure pipeline runs using authenticated tokens.
+- Deployed FastAPI on a VM and Kubernetes cluster using Docker and Helm with automatic OpenAPI documentation via /docs.
+- Integrated GitHub Webhooks and GitHub Actions to interact with the FastAPI automation service, forming a full-stack CI/CD workflow across GitHub → FastAPI → Jenkins/Azure.
+- Enabled secure API access using FastAPI middleware for token validation, improving safety and traceability in infrastructure automation tasks.
+
 
 ### Core Competencies
 - **Operating Systems:** Red Hat Linux, Ubuntu, CentOS, Windows
