@@ -34,6 +34,17 @@ Over 18 years of experience in Linux System Administration, with a strong focus 
 
 ---
 
+### Certifications
+- Microsoft Azure Administrator Associate (2021)
+- Red Hat Certified Specialist in Ansible Automation (2018)
+- Red Hat Certified System Administrator (2010)
+- EMC Information Storage Associate V2 (EMCISA) (2013)
+- Kubernetes Administration Training (Completed)
+- Terraform Associate Training (Completed)
+- Azure Bicep Advanced Training (Completed)
+
+---
+
 ### Professional Experience
 
 **Freelance Linux Cloud Admin (Contract) | Independent Projects**  
@@ -100,14 +111,4 @@ Projects: Deutsche Bank, Xerox, Aviva
 - Built and configured clusters, LVM, SAN, and performed regular patching.
 - Provided support for VMware, multipathing, and HA configurations.
 
----
-
-### Certifications
-- Microsoft Azure Administrator Associate (2021)
-- Red Hat Certified Specialist in Ansible Automation (2018)
-- Red Hat Certified System Administrator (2010)
-- EMC Information Storage Associate V2 (EMCISA) (2013)
-- Kubernetes Administration Training (Completed)
-- Terraform Associate Training (Completed)
-- Azure Bicep Advanced Training (Completed)
 
