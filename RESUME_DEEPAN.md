@@ -1,6 +1,6 @@
 Deepan Muthuvairavan
 
-Scotland, United Kingdom | +44 07741328083 | deepan.redhat@gmail.com
+Scotland, United Kingdom | 07741328083 | deepan.redhat@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/deepan-muthuvairavan/
 
