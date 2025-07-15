@@ -40,15 +40,19 @@ Over 18 years of experience in Linux System Administration, with a strong focus 
 *Dec 2024 – Present | Scotland, UK (Remote)*
 - Delivered end-to-end Linux platform and DevOps support through lab environments and freelance engagements
 - Built and managed Kubernetes clusters using OpenShift, RHACM, ACS with centralized security configuration
-- Deployed and managed Red Hat Satellite, Quay registry, and Ansible Automation Platform (AAP)
-- Developed automated workflows for provisioning infrastructure using Terraform and Ansible
-- Integrated GitHub Enterprise for source control and JFrog Artifactory for artifact lifecycle management
-- Focused on identity management via IdM integration for centralized access control
-- Built CI/CD pipelines using Helm charts, achieving zero-downtime deployments in test environments
-- Hands-on technical R&D for managing hybrid Kubernetes workloads across EKS, AKS, and OpenShift
-- Maintained project records, documentation, and lab proofs on GitHub and internal wiki systems
+- Hands-on technical R&D for managing hybrid Kubernetes workloads across EKS, AKS, and OpenShift.
+- Developed automated workflows for provisioning infrastructure using Terraform and Ansible.
+- Built and managed CI/CD pipelines using GitHub Actions for automated Docker builds, Artifact Registry uploads, and Cloud Run deployments.
+- Automated infrastructure provisioning with Terraform covering Artifact Registry, Cloud Run, IAM roles, and API Gateway configurations.
+- Built and managed CI/CD pipelines using GitHub Actions for automated Docker builds, Artifact Registry uploads, and Cloud Run deployments.
+- Integrated GitHub Enterprise for source control and JFrog Artifactory for artifact lifecycle management.
+- Built CI/CD pipelines using Helm charts, achieving zero-downtime deployments in test environments.
+- Implemented Google API Gateway to expose Cloud Run services securely, enabling fine-grained access control via service accounts and IAM policies.
+- Containerized FastAPI applications using Docker and deployed them to GCP Cloud Run with zero-downtime deployments.
+- Designed and developed RESTful APIs using FastAPI to automate GCP VM lifecycle operations (start/stop) with secure API key-based access.
+- Maintained project records, documentation, and lab proofs on GitHub and internal wiki systems.
 
-**Senior Linux Platform Engineer | Haveysoft India**  
+**Senior Linux Cloud Platform Engineer | Haveysoft India**  
 *June 2023 – Sept 2024*
 - Install and configure Linux OS across various distributions like Redhat Linux, Fedora, Centos, Debian, Ubuntu.
 - Perform regular patch updates on Linux servers using Satellite 6.10 servers.
